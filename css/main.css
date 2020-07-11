@@ -1,0 +1,68 @@
+.me {
+	margin-top: 80px;
+	border-bottom: 80px;
+	width: 1440px;
+	height: 174px;
+	left: 0px;
+	top: 792px;
+}
+
+.you {
+	margin-right: 140px;
+}
+
+.them {
+	margin-bottom: 80px;
+	width: 1200px;
+	height: 800px;
+	left: 0px;
+	top: 1051px;
+	background: #FFEEF2;
+}
+
+.we {
+	margin-top: 80px;
+	width: 1200px;
+	height: 512px;
+	left: 0px;
+	top: 2113px;
+	background: #FFFFC4;
+}
+
+.top {
+	margin-top: 20px;
+}
+
+.okay {
+	width: 700px;
+	height: 507px;
+	left: 0px;
+	background: #91FFDE;
+}
+
+.then {
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	/* width: 1440px;*/
+	height: 300px;
+	left: 0px;
+	top: 5121px;
+	background: #FFEAEF;
+}
+
+.meow {
+	
+	height: 487px;
+	left: 0px;
+	top: 5687px;
+	background: #000000;
+}
+
+body {
+	font-family: 'Gilroy', sans-serif;
+}
+
+.test {
+	font-family: 'Gilroy-bold', sans-serif;
+}
